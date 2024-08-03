@@ -5,7 +5,9 @@ Este proyecto tiene como objetivo aprender y practicar el uso de Git y GitHub pa
 **Miembros del Equipo**
 
 **1. Sabrina Torres**
+
 **2. Maria Gareca**
+
 **3. Aylen Fernández** 
 
 **Investigacion sobre las funcionalidades principales de Figma:** 
