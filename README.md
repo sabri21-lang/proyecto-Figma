@@ -51,13 +51,13 @@ Este proyecto tiene como objetivo aprender y practicar el uso de Git y GitHub pa
 
 Para poder aprender a usar Figma nos apoyaremos en los siguientes link de videos de You Tube: 
 
- [QUE ES FIGMA, COMO USARLO:](https://www.youtube.com/watch?v=5pNKiUOp-rg)
+ [QUE ES FIGMA, COMO USARLO:] (https://www.youtube.com/watch?v=5pNKiUOp-rg)
  
- [RECURSOS PARA APRENDER FIgma:](https://www.youtube.com/watch?v=8Xm5pseK97Q)
+ [RECURSOS PARA APRENDER FIgma:] (https://www.youtube.com/watch?v=8Xm5pseK97Q)
  
- ["FIGMA" TUTORIAL PARA PRINCIPIANTES:](https://www.youtube.com/watch?v=bIK7PIdlLTU)
+ ["FIGMA" TUTORIAL PARA PRINCIPIANTES:] (https://www.youtube.com/watch?v=bIK7PIdlLTU)
  
-[INSTRUCTIVO FIGMA: https:](//www.figma.com/community/file/923140611594993345/figma-basics-espanol-primeros-pasos-en-figma)
+[INSTRUCTIVO FIGMA:] (https//www.figma.com/community/file/923140611594993345/figma-basics-espanol-primeros-pasos-en-figma)
 
  
 **Sistema de Diseño Escalable**
