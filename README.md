@@ -48,10 +48,15 @@ Este proyecto tiene como objetivo aprender y practicar el uso de Git y GitHub pa
 **Ejemplo**: La startup de fintech Monzo utiliza Figma para crear prototipos de sus aplicaciones móviles, lo que les permite iterar rápidamente y probar nuevas ideas antes de la implementación.
 
 Recursos y tutoriales para aprender Figma
+
 Para poder aprender a usar Figmas nos apoyaremos en los siguientes link de videos de You Tube; 
+
  QUE ES FIGMA, COMO USARLO: https://www.youtube.com/watch?v=5pNKiUOp-rg
+ 
  RECURSOS PARA APRENDER FIgma: https://www.youtube.com/watch?v=8Xm5pseK97Q 
+ 
  "FIGMA" TUTORIAL PARA PRINCIPIANTES: https://www.youtube.com/watch?v=bIK7PIdlLTU
+ 
 INSTRUCTIVO FIGMA: https://www.figma.com/community/file/923140611594993345/figma-basics-espanol-primeros-pasos-en-figma
 
  
